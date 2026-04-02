@@ -1,4 +1,4 @@
-# ML Model Benchmarking & Optimization Framework
+# Production ML Benchmarking & Optimization Framework
 
 Built an automated benchmarking pipeline comparing Logistic Regression, Random Forest, XGBoost, and Neural Networks using Optuna hyperparameter tuning.
 
