@@ -9,8 +9,10 @@ Built an automated benchmarking pipeline comparing Logistic Regression, Random F
 
 ## Key Insight
 A key finding was that simpler models (Logistic Regression) outperformed more complex models like XGBoost and Neural Networks while achieving 2–4× lower inference latency.
-
 This highlights the importance of balancing performance with efficiency in production ML systems.
+
+## Tech Stack
+Python, Scikit-learn, XGBoost, Optuna, NumPy, Pandas, Matplotlib
 
 ## Run
 pip install -r requirements.txt
